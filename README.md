@@ -27,7 +27,7 @@ I am an Information Technology student bridging the gap between intelligent AI m
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,supabase,firebase,postgresql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,cssjs,python,react,supabase,firebase,postgresql,git,github,vscode,postman" />
 </p>
 
 ---
