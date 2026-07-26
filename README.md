@@ -37,3 +37,26 @@ I am an Information Technology student bridging the gap between intelligent AI m
 2. **Smart Veterinary Management System** – React, FastAPI, Python, OpenCV[cite: 1]
 3. **Government Land Records Encroachment Monitoring** – Python, GIS Tools[cite: 1]
 4. **Enterprise Business Intelligence & Analytics Platform** – Python, SQL, Pandas, Scikit-learn[cite: 1]
+
+<section class="contact-section">
+    <h2>Let's Connect & Work Together</h2>
+    <hr>
+    <p>Whether you have an open AI Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!</p>
+    
+    <div class="button-container">
+        <!-- LinkedIn Button -->
+        <a href="https://linkedin.com/in/anusiya-g" target="_blank" class="btn linkedin-btn">
+            LinkedIn
+        </a>
+        
+        <!-- Email Button -->
+        <a href="anusiya.it@gmail.com" class="btn email-btn">
+            M Email
+        </a>
+        
+        <!-- View My Resume Button -->
+        <a href="URL_TO_YOUR_RAW_RESUME_PDF" target="_blank" class="btn resume-btn">
+            <span class="icon">📄</span> VIEW MY RESUME
+        </a>
+    </div>
+</section>
