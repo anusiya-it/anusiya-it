@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Software Engineer | AI, Full-Stack & Cloud Development**
+**Software Engineer |  Full-Stack & Web Development**
 
 I am an Information Technology student bridging the gap between intelligent AI models and scalable web infrastructure[cite: 1]. My focus is on turning complex architectural problems into clean, high-performance code to build products that solve real-world problems.
 
