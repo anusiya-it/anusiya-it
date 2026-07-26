@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=header&text=Hello!%20I'm%20Anusiya%20G&fontSize=35&fontColor=ffffff&fontAlignY=50" />
 
-# https://linkedin.com/anusiya-g 
+
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+React+Engineer;Building+Scalable+Web+Apps" />
@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 * 💬 Ask me about React, Python (Flask/FastAPI/Django), Supabase, and SQL[cite: 1].
 * 📫 How to reach me: Anusiya.it@gmail.com | [LinkedIn Profile](https://linkedin.com/in/anusiya-g)[cite: 1]
 * ⚡ Fun fact: I love building game-based mini-projects to master coding fundamentals!
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,supabase,firebase,postgresql,git,github,vscode,postman" />
+</p>
