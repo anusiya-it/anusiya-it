@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5&height=120&section=header&text=Hello!%20I'm%20Anusiya%20G&fontSize=35&fontColor=ffffff&fontAlignY=50" />
 
-#Detail-oriented Information Technology student and aspiring Full-Stack Developer with a strong foundation in software engineering, database design, and data analytics
+# Detail-oriented Information Technology student and aspiring Full-Stack Developer with a strong foundation in software engineering, database design, and data analytics
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+React+Engineer;Building+Scalable+Web+Apps" />
