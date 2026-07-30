@@ -14,7 +14,7 @@
 
 **Software Engineer |  Full-Stack & Web Development**
 
-I am an Information Technology student bridging the gap between intelligent AI models and scalable web infrastructure[cite: 1]. My focus is on turning complex architectural problems into clean, high-performance code to build products that solve real-world problems.
+I am an Information Technology student bridging the gap between intelligent of Web Application models and scalable web infrastructure[cite: 1]. My focus is on turning complex architectural problems into clean, high-performance code to build products that solve real-world problems.
 
 * 🔭 I’m currently working on **full-stack web applications** and AI-powered software solutions[cite: 1].
 * 👯 I’m looking to collaborate on **innovative open-source projects** and scalable AI products.
@@ -43,6 +43,11 @@ I am an Information Technology student bridging the gap between intelligent AI m
     <hr>
     <p>Whether you have an open AI Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!</p>
     
+<section class="contact-section">
+    <h2>Let's Connect & Work Together</h2>
+    <hr>
+    <p>Whether you have an open Web Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!</p>
+    
     <div class="button-container">
         <!-- LinkedIn Button -->
         <a href="https://linkedin.com/in/anusiya-g" target="_blank" class="btn linkedin-btn">
@@ -50,13 +55,13 @@ I am an Information Technology student bridging the gap between intelligent AI m
         </a>
         
         <!-- Email Button -->
-        <a href="anusiya.it@gmail.com" class="btn email-btn">
+        <a href="mailto:anusiya.it@gmail.com" class="btn email-btn">
             M Email
         </a>
         
         <!-- View My Resume Button -->
         <a href="https://github.com/anusiya-it/anusiya-it/blob/main/ANUSIYA.pdf" target="_blank" class="btn resume-btn">
-    <span class="icon">📄</span> VIEW MY RESUME
-</a>
+            <span class="icon">📄</span> VIEW MY RESUME
+        </a>
     </div>
 </section>
