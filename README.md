@@ -14,12 +14,12 @@
 
 **Software Engineer |  Full-Stack & Web Development**
 
-I am an Information Technology student bridging the gap between intelligent of Web Application models and scalable web infrastructure[cite: 1]. My focus is on turning complex architectural problems into clean, high-performance code to build products that solve real-world problems.
+I am an Information Technology student bridging the gap between intelligent of Web Application models and scalable web infrastructure. My focus is on turning complex architectural problems into clean, high-performance code to build products that solve real-world problems.
 
-* 🔭 I’m currently working on **full-stack web applications** and AI-powered software solutions[cite: 1].
+* 🔭 I’m currently working on **full-stack web applications** and AI-powered software solutions.
 * 👯 I’m looking to collaborate on **innovative open-source projects** and scalable AI products.
-* 💬 Ask me about **frontend development, building APIs**, and integrating AI models into real-world products[cite: 1].
-* 🌱 I’m currently learning **new machine learning frameworks** and advanced backend optimization[cite: 1].
+* 💬 Ask me about **frontend development, building APIs**, and integrating AI models into real-world products.
+* 🌱 I’m currently learning **new machine learning frameworks** and advanced backend optimization.
 * ⚡ Fun fact: **I do my best "rubber duck debugging"** by explaining my complex code problems out loud.
 
 ---
@@ -33,10 +33,10 @@ I am an Information Technology student bridging the gap between intelligent of W
 ---
 
 ### 📌 Featured Projects
-1. **Smart Recruitment Enterprise Platform** – React, Firebase, Supabase[cite: 1]
-2. **Smart Veterinary Management System** – React, FastAPI, Python, OpenCV[cite: 1]
-3. **Government Land Records Encroachment Monitoring** – Python, GIS Tools[cite: 1]
-4. **Enterprise Business Intelligence & Analytics Platform** – Python, SQL, Pandas, Scikit-learn[cite: 1]
+1. **Smart Recruitment Enterprise Platform** – React, Firebase, Supabase.
+2. **Smart Veterinary Management System** – React, FastAPI, Python, OpenCV.
+3. **Government Land Records Encroachment Monitoring** – Python, GIS Tools.
+4. **Enterprise Business Intelligence & Analytics Platform** – Python, SQL, Pandas, Scikit-learn.
 
 <section class="contact-section">
     <h2>Let's Connect & Work Together</h2>
