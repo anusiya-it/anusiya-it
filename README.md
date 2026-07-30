@@ -55,8 +55,8 @@ I am an Information Technology student bridging the gap between intelligent AI m
         </a>
         
         <!-- View My Resume Button -->
-        <a href="URL_TO_YOUR_RAW_RESUME_PDF" target="_blank" class="btn resume-btn">
-            <span class="icon">📄</span> VIEW MY RESUME
-        </a>
+        <a href="https://github.com/anusiya-it/anusiya-it/blob/main/ANUSIYA.pdf" target="_blank" class="btn resume-btn">
+    <span class="icon">📄</span> VIEW MY RESUME
+</a>
     </div>
 </section>
