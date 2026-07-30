@@ -41,27 +41,18 @@ I am an Information Technology student bridging the gap between intelligent of W
 <section class="contact-section">
     <h2>Let's Connect & Work Together</h2>
     <hr>
-    <p>Whether you have an open AI Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!</p>
-    
-<section class="contact-section">
-    <h2>Let's Connect & Work Together</h2>
-    <hr>
-    <p>Whether you have an open Web Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!</p>
-    
-    <div class="button-container">
-        <!-- LinkedIn Button -->
-        <a href="https://linkedin.com/in/anusiya-g" target="_blank" class="btn linkedin-btn">
-            LinkedIn
-        </a>
-        
-        <!-- Email Button -->
-        <a href="mailto:anusiya.it@gmail.com" class="btn email-btn">
-            M Email
-        </a>
-        
-        <!-- View My Resume Button -->
-        <a href="https://github.com/anusiya-it/anusiya-it/blob/main/ANUSIYA.pdf" target="_blank" class="btn resume-btn">
-            <span class="icon">📄</span> VIEW MY RESUME
-        </a>
-    </div>
-</section>
+    ### Let's Connect & Work Together
+
+Whether you have an open Web Engineering role, want to collaborate on an open-source project, or just want to talk about tech, feel free to reach out!
+
+<p>
+  <a href="https://linkedin.com/in/anusiya-g" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:anusiya.it@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/anusiya-it/anusiya-it/blob/main/ANUSIYA.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_MY_RESUME-1F2428?style=for-the-badge&logoColor=white" alt="View My Resume">
+  </a>
+</p>
